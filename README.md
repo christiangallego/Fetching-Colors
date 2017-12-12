@@ -1,3 +1,31 @@
+## Color Fetching App 
+
+A follow along React & Redux project from X-Team's video series "API Calls in React/Redux ". 
+
+This was a simple yet important project about making Axios calls with React & Redux. It was good practice on promised based HTTP requests and the value of exploring API data before implementation by using resources like Postman. 
+
+## Getting Started
+
+### Installing
+
+Clone this repository by running the following command in your terminal:
+
+`git clone git@github.com:christiangallego/Fetching-Colors.git`
+
+Then download the project dependencies by running this command in your terminal:
+
+`npm install`
+
+In the project directory, you can run:
+
+`npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
