@@ -10,15 +10,15 @@ This was a simple yet important project about making Axios calls with React & Re
 
 Clone this repository by running the following command in your terminal:
 
-`git clone git@github.com:christiangallego/Fetching-Colors.git`
+#### `git clone git@github.com:christiangallego/Fetching-Colors.git`
 
 Then download the project dependencies by running this command in your terminal:
 
-`npm install`
+#### `npm install`
 
 In the project directory, you can run:
 
-`npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
