@@ -2,7 +2,7 @@
 
 A follow along React & Redux project from X-Team's video series `API Calls in React/Redux`. 
 
-This was a simple yet important project about making Axios calls with React & Redux. It was good practice on promised based HTTP requests and the value of exploring API data before implementation by using resources like Postman. 
+This was a simple yet important project about making Axios calls with React & Redux. It was good practice on promised-based HTTP requests and reinforced the value of exploring API data before implementation by using resources like Postman. 
 
 ## Getting Started
 
